@@ -1,0 +1,9 @@
+DeformIt - Tool for simulating ground truth labels and transformations via physical and statistical warps.
+Preet S. Jassi, May 5 2011
+
+DeformIt is a Matlab tool to generate deformed images and ground truth segmentations based on a single prototype image and ground truth segmentation.  To deform 2D images, use 2D/DeformIt.m.  To deform 3D images use 3D/DeformIt.m
+
+You can read the paper here for more information about DeformIt http://www.erudianart.com/research/papers/deformit.pdf
+
+
+
