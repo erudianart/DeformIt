@@ -1,0 +1,1 @@
+% Interpolate Image 2 using interp2function [InterpolatedImage] = InterpolateImage2(MeshX, MeshY, MeshI, InterpolationType, XX, YY)InterpolatedImage = griddata(MeshX, MeshY, MeshI, XX, YY, InterpolationType,{'QJ'});return
